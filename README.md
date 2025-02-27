@@ -15,7 +15,9 @@ O sistema utiliza um **Raspberry Pi Pico W** como microcontrolador principal, in
 - **Geração de relatórios** mensais sobre o ganho ou perda de peso do rebanho.
 
 ---
-
+# **Video**
+- **Link**: https://youtu.be/ItTHcmiJkTo?si=a5t1SdoLDZVL2v_M
+---
 ## **Funcionalidades**
 
 - **Monitoramento de Peso**: Mede o peso dos bois e compara com dados anteriores.
